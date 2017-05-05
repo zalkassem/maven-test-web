@@ -5,7 +5,7 @@
   <artifactId>maven-test-web</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>maven-test-web Maven Webapp</name>
+  <name>maven-test-web</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -14,6 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+  </dependencies>
   <build>
     <finalName>maven-test-web</finalName>
   </build>
